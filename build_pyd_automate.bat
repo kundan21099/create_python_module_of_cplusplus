@@ -18,6 +18,7 @@ echo PYTHON_LIB_NAME=%PYTHON_LIB_NAME%
 REM ------------------------------------------------------------
 
 :: manually add directory paths
+SET PYTHON_LIB=<include your python lib path here>
 SET PROJECT_INCLUDE=<include your project include path here>
 SET BUILD_DIR=<include your build directory path here>
 SET SRC_DIR=<include your source directory path here>
