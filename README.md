@@ -24,7 +24,7 @@ Above image shows the the structure.
 **3. Activate venv**
 - Get the pybind11 paths by running the **get_pybind11_paths.py** from python_implementation folder.
 
-**4. Add respective paths and file anmes in build_pyd_automate.bat**
+**4. Add respective paths and file names in build_pyd_automate.bat**
 
 **5. Activate virtual environment**
 
